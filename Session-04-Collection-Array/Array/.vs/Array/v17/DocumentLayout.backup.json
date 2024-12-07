@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B25BEC7-C9A9-4594-AD9A-69956CAA51B3}|PrimitiveArray\\PrimitiveArray.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\primitivearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B25BEC7-C9A9-4594-AD9A-69956CAA51B3}|PrimitiveArray\\PrimitiveArray.csproj|solutionrelative:primitivearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FC6BA9C-E753-4E9F-AEA6-4A28845897A0}|ObjectArray\\ObjectArray.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FC6BA9C-E753-4E9F-AEA6-4A28845897A0}|ObjectArray\\ObjectArray.csproj|solutionrelative:objectarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\schoolmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\schoolmanagement\\entities\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\entities\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\schoolmanagement\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\schoolmanagement\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7678FCDB-74C4-4144-942C-3DB6A3231FAC}|SchoolManagement\\SchoolManagement.csproj|solutionrelative:schoolmanagement\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\studentmanagement\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\studentmanagement\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\studentmanagement\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentmanagement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session-04-collection-array\\array\\studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050BBAC9-A1AF-459E-92C0-EBD4A9E33FEB}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\PrimitiveArray\\Program.cs",
+              "RelativeDocumentMoniker": "PrimitiveArray\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\PrimitiveArray\\Program.cs",
+              "RelativeToolTip": "PrimitiveArray\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAACoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T19:19:08.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Entities\\Student.cs",
+              "RelativeToolTip": "SchoolManagement\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:17:52.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Entities\\Lecturer.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "SchoolManagement\\Entities\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:17:44.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Services\\Cabinet.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Services\\Cabinet.cs",
+              "RelativeToolTip": "SchoolManagement\\Services\\Cabinet.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:17:27.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Entities\\Fish.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Entities\\Fish.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Entities\\Fish.cs",
+              "RelativeToolTip": "SchoolManagement\\Entities\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:17:03.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\ObjectArray\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectArray\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\ObjectArray\\Program.cs",
+              "RelativeToolTip": "ObjectArray\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAuwF0AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T05:13:27.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentManagement.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\StudentManagement.csproj",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentManagement.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\StudentManagement.csproj",
+              "RelativeToolTip": "StudentManagement\\StudentManagement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T08:18:18.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolManagement\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\SchoolManagement\\Program.cs",
+              "RelativeToolTip": "SchoolManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:14:59.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LecturerCabinet.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Services\\LecturerCabinet.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\LecturerCabinet.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Services\\LecturerCabinet.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\LecturerCabinet.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAwDUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:29:17.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\Lecturer.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:23:00.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Services\\Cabinet.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentManagement\\Services\\Cabinet.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:18:13.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:17:53.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session-04-Collection-Array\\Array\\StudentManagement\\Program.cs",
+              "RelativeToolTip": "StudentManagement\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T07:15:47.253Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

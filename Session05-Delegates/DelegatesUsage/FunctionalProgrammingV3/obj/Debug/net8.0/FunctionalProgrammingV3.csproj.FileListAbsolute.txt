@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\bin\Debug\net8.0\FunctionalProgrammingV3.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\bin\Debug\net8.0\FunctionalProgrammingV3.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\bin\Debug\net8.0\FunctionalProgrammingV3.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\bin\Debug\net8.0\FunctionalProgrammingV3.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\bin\Debug\net8.0\FunctionalProgrammingV3.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\refint\FunctionalProgrammingV3.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\FunctionalProgrammingV3.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV3\obj\Debug\net8.0\ref\FunctionalProgrammingV3.dll

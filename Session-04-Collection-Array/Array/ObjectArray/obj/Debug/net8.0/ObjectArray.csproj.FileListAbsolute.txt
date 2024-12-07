@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\bin\Debug\net8.0\ObjectArray.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\refint\ObjectArray.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ObjectArray.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\ObjectArray\obj\Debug\net8.0\ref\ObjectArray.dll

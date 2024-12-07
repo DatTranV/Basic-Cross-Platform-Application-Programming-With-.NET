@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\bin\Debug\net8.0\ActionGenericDelegates.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\bin\Debug\net8.0\ActionGenericDelegates.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\bin\Debug\net8.0\ActionGenericDelegates.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\bin\Debug\net8.0\ActionGenericDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\bin\Debug\net8.0\ActionGenericDelegates.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\refint\ActionGenericDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ActionGenericDelegates.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\ActionGenericDelegates\obj\Debug\net8.0\ref\ActionGenericDelegates.dll

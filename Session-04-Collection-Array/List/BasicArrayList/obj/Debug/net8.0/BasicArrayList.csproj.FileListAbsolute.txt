@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\bin\Debug\net8.0\BasicArrayList.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\bin\Debug\net8.0\BasicArrayList.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\bin\Debug\net8.0\BasicArrayList.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\bin\Debug\net8.0\BasicArrayList.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\bin\Debug\net8.0\BasicArrayList.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\refint\BasicArrayList.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\BasicArrayList.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicArrayList\obj\Debug\net8.0\ref\BasicArrayList.dll

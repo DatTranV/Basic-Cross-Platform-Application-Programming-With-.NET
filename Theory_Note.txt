@@ -1,0 +1,425 @@
+I. THUẬT NGỮ .NET (CHẤM NET, DOT NET)
+1.LỊCH SỬ XUẤT HIỆN .NET
+	.NET FRAMEWORK -> .NET CORE - .NET
+
+2. .NET LÀ GÌ?
+-.NET LÀ 1 CÔNG NGHỆ KĨ THUẬT PHẦN MỀM ĐƯỢC TẠO RA BỞI MICROSOFT
+-.NET LÀ BỘ, NHÓM 4 NGÔN NGỮ LẬP TRÌNH ĐƯỢC TẠO BỞI MICROSOFT (MS): C#, VB .NET (VISUAL BASIC)
+							            F#, VC++ .NET (VISUAL C++ - PLUS PLUS)
+-.NET RA ĐỜI KHOẢNG NĂM 2001 
+-LÚC MỚI RA ĐỜI, CÔNG NGHỆ .NET, CÁC NNLT .NET Ở TRÊN CHỈ GIUP LÀM APP CHẠY ĐƯỢC TRÊN WINDOWS(KHÔNG ĐA NỀN), KO CHƠI OS KHÁC NGOÀI WINDOWS
+	.NET LÚC NÀY MANG TÊN: .NET FRAMEWORK
+	.NET FRAMEWORK (CHỈ DÀNH CHO WIN) CÓ VERSION
+	1.0 2.0 .... 3.5 (NỔI TIẾNG) , 4.X  4.8.X  NỔI TIẾNG VÀ END
+		- EOS , PEA -. VIẾT TRÊN .NET FRAMEWORK
+- SAU NÀY (THẬP NIÊN 201X) MS RA PHIÊN BẢN .NET HỖ TRỢ NHIỀU OS TỨC LÀ CÁC APP CÓ THỂ CHẠY TRÊN WIN, LINUX, MACOS
+-> CROSS PLATFORM (JAVA: PLATFORM INDEPENDENT)
+.NET LÚC NÀY LÀ .NET CORE
+- VERSION .NET CORE: 1.0 2.0   3.X -> DỪNG END
+
+- KHOẢNG 2016 , MS HỢP NHẤT .NET FWW, .NET CORE, GỌI CHUNG LÀ .NET
+
+-.NET VERSION: 5.0, 5.X, 7.X, 8.X, 9.X (CÁCH ĐÂY  15 NGÀY)
+
+- TRONG CÁC VERSION .NET KỂ TỪ 5.X THÌ 
+  - VERSION LẺ LÀ VERSION "THỬ NGHIỆM" 5.X 7.X 9.X ...
+  - VERSION CHẴN LÀ VERSION "NGON", STABLE 6.X, 8.X -> GỌI LÀ LTS VERSION - LONG TERM SUPPORT VERSION
+
+-8.X SẼ LÀ PHIÊN BẢN HỌC Ở LỚP NÀY!!!
+
+* .NET CÒN LÀ CÔNG CỤ, THƯ VIỆN LẬP TRÌNH DÀNH CHO DÂN DEV ĐỂ GIÚP DÂN DEV LÀM CÁI APP CHẠY ĐA NỀN BẰNG 1 TRONG 4 NGÔN NGỮ LẬP TRÌNH Ở TRÊN
+
+3.CÀI ĐẶT .NET TRÊN MÁY
+-DOWLOAD .NET SDK 8.X (SDK: SOFTWARE DEVELOPMENT KIT)
+- DOWLOAD 1 TẬP TIN .EXE KHOẢNG 250MB TỪ WEB SITE MS,
+CÀI 1 ĐƯỢC 4 NGÔN NGỬ LẬP TRÌNH 
+DOUBLE CLICK FILE EXE -> NEXT ..
+BỘ ĐỒ CHƠI .NET ĐƯỢC ÀI VÀO MÁY MÌNH, Ở THƯ MỤC
+C:\PROGRAM FILES\DOTNET
+[CÀI VISUAL STUDIO BẢN CHẤT LÀ NÓ TỰ CÀI THÊM .NET SDK ]
+
+
+
+
+
+-Trong thư mục dotnet đã cài vào máy, có 1 tập tin quan trọng tên là dotnet.exe
+tập tin này chính là 1 cái app nho nhỏ do microsoft tạo ra, giúp ta-dân dev có 1 công
+cụ để biên dịch, đóng gói, run 1 cái app.net mà dân dev ta viết ra
+nó có thể giúp ta làm nhiều việc khác (ví dụ tạo ra các class map từ table của database)
+lệnh dotnet dbscaffold...
+nó có thể giúp ta tạo mới 1 project, 1 solution luôn, chỉ gõ lệnh mà k thèm, chưa thèm cài 
+visual studio
+
+	hôm qua câu lệnh: dotnet new console --framework net8.0 --use-program-main
+			sẽ giúp ta tạo ra 1 project để viết code cho cái app chạy dưới
+			dòng lệnh CMD
+			dotnet build giúp ta biến đổi source code thành .dll .exe
+			dotnet run giúp ta chạy cái app vừa viết xong!!!
+-các lệnh khác dùng qua donet.exe
+dotnet --info 
+dotnet --version
+dotnet --list-sdks
+dotnet --list-runtimes
+
+giúp ta check version, check các phiên bản sdk/runtime của .net
+
+->dotnet.exe kèm các tham số lệnh phía sau, được gọi chung là dotnet cli (command line 
+interface)
+
+4. Mô hình viết app
+	Ta viết app bắt đầu từ tạo mới 1 project - dự án (bàn về quá trình làm ra app)
+	------------------------------------------------------------------>TIME
+	làm project			để có 				app, product, sản phẩm 
+	hằng ngày
+	project là làm, quá trình					app, product là kết quả
+									của quá trình, dự án
+
+	lập trình là viết các câu lệnh dùng 1 ngôn ngữ lập trình nào đó để yêu
+	cầu máy làm điều gì đó cho ta
+	các câu lệnh lập trình dc viết bằng english-like
+					ví dụ: if (bmi < 18.5)
+						System.out.println("....");
+	các lệnh ta viết ra gọi là source code 
+				java .java	C# (sharp) .cs
+				|			|
+				dịch, biến đổi code thành app, "nhị phân"
+					|
+					app/appliication/software
+					|
+					run trên 1 cái os nào đó,	hay bất kì os nào đó
+					chỉ run dc trên 1 os		ko care hđh
+					thì gọi là app ko đa nền	được gọi là:
+					ko chạy được trên nhiều os	cross platform independent
+									độc lập nền tảng
+									ko lệ thuộc hđh
+	.java 		.cs		=> viết code bằng gì??
+		|
+	dịch, biến đổi thành "nhị phân"
+		|
+	máy ảo/ virtual machine, máy ảo java, máy ảo c#				| JDK, .NET
+		|			|		|			SDK ta cài
+	máy ảo cho macos	máy ảo cho linus	máy ảo cho windows
+			(runtime, môi trường ko gian chạy app)
+		|			|			|
+		macos			linus			windows
+		__________________________________________________________
+					|
+			hardware, phần cứng nào đó
+
+	có 2 loại tool giúp ta viết code, ra lệnh cho máy = ngôn ngữ lập trình nào đó
+Tool đơn giản				Tool phức tạp
+code editor				IDE(integrated development enviroment)
+-vs code, sublime, atom			eclipse, netbeans, intellij -> java
+ brackets, notepad++, notepad		rider, vs - visual studio -> c#
+-và phải cài lẻ, cài thêm các 		(rider và intellij cùng 1 bố mẹ là cty atlasian
+ extension, plugin, sdk			cùng ae với jira, bitbucket, sourcetree)
+ thì mới dịch code thành app		cài nó có sẵn luôn sdk
+ và chạy app được			viết code được gợi ý tự động, nhanh hơn editor
+
+
+===================================================================================
+ngoại truyện: lưu trữ project/solution ở đâu?
+- cấm tuyệt đối lưu trữ source code, solution, project, tập tin source code
+ ở thư mục có dấu tiếng việt, có kí tự đặc biệt, có dấu cách
+ ví dụ - làm sai, lưu source code ở: d:\fu-source\học kì 5
+	-làm đúng: lưu source code ở d:\fu-source\semester_5
+- cấm tuyệt đối lưu trữ source code ở thư mục zalo download, thư mục
+google drive, one drive là những thư mục dùng để đồng bộ code lên server google hoặc ms.
+để lưu trữ lâu dài data của mình
+	do dễ bị xung đột tool:
+- đừng lưu project ở tên thư mục quá dài, do tool vs ko hiểu dc tốt đường dẫn thư mục quá dài!
+ C:\fpt_university\semester_05\programming_with_C-sharp\hands-on\...
+
+===================================================================================
+II. Coding convention - Quy ước viết code
+-khi đi làm ở cty, code phải viết theo quy tắc mà cty đã định sẵn, nếu cãi, check var, trừ
+lương, performance. cty có sẵn tool quét code có sai quy tắc hay không!
+1. Quy ước đặt tên solution, project
+2. Quy ước đặt tên namespace, quy ước đặt tên thư mục chứa code, chứa tập tin code, chứa
+class
+3. Quy ước đặt tên class, Interface, Delegates
+3.1 Quy ước đặt tên class
+-tên class đại diện cho 1 nhóm object, tên của phân loại nào đó, nhóm nào đó, do đó tên class
+phải là danh từ, chữ hoa từng đầu từ
+-đúng: Dog, Cat,...
+-sai: PrintDog (print là động từ)
+4. Quy ước đặt tên biến (field, variable)
+4.1 Biến cục bộ (khai báo trong 1 cái hàm, khai báo ở tham số hàm)
+-java và c# thì biến cục bộ, local variable đặt theo quy tắc
+ -NOUN
+ -con Lạc Đà, camel Case Notation
+-Ví dụ: id, name, salary, basicSalary, bill, total, subtotal, numberOfStudents
+
+ public Student(string id, string name)
+ {
+	
+ }
+ public static double GetBmi(double weight, double height)
+ {
+	double bmi = weight / (height * height);
+ }
+4.2 Biến "Toàn cục", biến nằm ngoài hàm nhưng phải trong class
+ Biến này để mô tả đặc điểm của một object, ví dụ Student(id, name, yob...)
+
+ Biến này được gọi là - đặc tính của 1 object - Attribute (Java)					
+			trường thông tin của object - Field (C#)
+
+ Biến này được gọi là member of a class, thành viên của 1 class
+ Java: cú pháp con Lạc Đà, noun
+ C#: cú pháp con Lạc Đà, noun, thêm _ ở đầu từ
+ Class Student
+ {
+	private string id; //Java - attribute
+	private string _id; //C# - field
+
+	private string name;
+ }
+5. Quy ước đặt tên hàm (method, function)
+-tên hàm phải bắt đầu từ động từ, sau đó là bổ ngữ - từ bổ nghĩa cho động từ, verb + object
+là công thức đặt tên hàm
+- tên hàm đồng thời còn phải gõ theo quy ước: pascal notation
+- tên hàm phải có chữ hoa từng đầu từ, kể cả từ đầu tiên
+-ví dụ:
+	C#					Java
+	PrintBmi()				printBmi()
+	Main()					main()
+	GetName()				getName()
+	ToString()				toString()
+	ComputeArea				computeArea()
+	Passcal Case Notation			camel Case Notation, cú pháp con Lạc Đà
+
+
+=================================================================================================
+//Có mấy loại biến, dựa theo số vùng ram cần sử dụng:
+//có 2 loại biến: biến primitive (value-type)	và biến object
+//			tốn 1 vùng ram			tốn 2 vùng ram
+//			ko chấm cái mọe gì		1 vùng con trỏ, chấm xổ vùng new
+//mảng primitive tốn mấy vùng ram???
+//				2 vùng ram: 1 vùng cho biến con trỏ, 1 vùng cho new
+//mảng sinh viên, mảng object, tốn mấy vùng ram
+//				3 vùng ram
+
+
+
+DATA, VALUE		VS	DATA TYPE	VS	VARIABLE
+Dữ liệu				Kiểu dữ liệu		Biến
+
+int a = 10;
+double pi = 3.14;
+
+*Để phân biệt các sự vật xung quanh mình, phân biệt mọi thứ quanh mình, con người đặt tên cho chúng,
+cho sự vật quanh mình
+
+*Có 2 cách đặt tên cho sự vật quanh chùng ta
+-Đặt tên cho từng sự vật riêng lẻ
+-Đặt tên cho nhóm sự vật cùng style, cùng kiểu, cùng hình dạng, đồng dạng
+
+1. Đặt tên cho sự vật đơn lẻ/riêng lẻ xung quanh ta
+- Trong giải phương trình bậc 2, ta có phép tính delta
+Delta = B^2 - 4AC
+	---------
+Delta là tên cho value, 1 số đc tính toán ra
+- VAT = 0.08, VAT là tên gọi cho con số 8%
+- C = 300.000 -> C là tên gọi cho con số 300k, tốc độ ánh sáng
+- Total = 500k -> Total là tên gọi cho giá tiền thanh toán
+- PI = 3.14 -> PI là tên gọi cho con số 3.14
+- G = 9.8 -> G là tên gọi cho gia tốc rơi tự do
+- SẾP = {NGHỆ DANH: MTP, SINH: 1994,...}
+VARIABLE = VALUE
+* Chốt hạ: Biến là tên gọi cho 1 value cụ thể nào đó quanh ta
+	   Value có thể là giá trị đơn (5, 10, 3.14, 9.8) -> Value đơn giá trị, gọi là Primitive,
+	   Value Type
+	   Value có thể là giá trị phức tạp (Gồm nhiều thứ khác bên trong)
+	   -> Value phức tạp còn gọi là Object
+- VARIABLE = PRIMITIVE VALUE = 5, 10, 3.14
+- VARIABLE = OBJECT VALUE = {ID, NAME,...}
+
+>>>> Ta dùng biến = value để đặt tên gọi cho các thứ riêng lẻ quanh ta(phức tạp hay đơn giản oke luôn)
+1. Đặt tên cho nhóm sự vật xung quanh ta; nhóm các thứ sẽ đc đặt tên gọi
+>>>> Đặt tên (Chung) cho nhiều thứ!!!!
+
+quanh ta đang có: 1 2 3 -1 -2 300000 3.14  9.8 0.08 0.1 
+				C	PI  G	VAT  VAT	
+		  ------------------ ------------------- 
+		Nhóm INT		Nhóm DOUBLE		NHÓM
+>>>>trong n1 nhóm (data type: int, double, Single, Actors, Artist, Dog, Cat...) có nhiều cá thể, mỗi cá thể
+	(value) có thể đc đặt 1 tên riêng - biến
+
+>>>>data type: là tên đặt cho 1 nhóm value cùng hình dạng sắc thái
+>>>>variable: là tên đặt cho 1 value thuộc nhóm nào đó
+	int x = 6;
+	int yob =2004;
+	double gpa = 10.0;
+	double g = 9.8;
+	double pi = 3.14;
+
+vietsub: pi là con số thực (chung nhóm) và có giá trị cụ thể là 3.14
+{ID, NAME, CLASS,...}
+--------------------
+	STUDENT
+Student an = new Student() {Id = "SE1", Name = "An Nguyen"};
+
+Chốt hạ: DATA TYPE là tên gọi chung, đặt tên cho 1 đám data, 1 đám value đồng dạng
+			: INT, LONG, FLOAT, DOUBLE, STUDENT, LECTURER, FISH,...
+	VARIABLE: Là tên gọi riêng, đặt tên riêng cho 1 value cụ thể thuộc nhóm nào đó
+		int yob = 2004;		double pi = 3.14;
+		Student s = new Student() {...};
+
+======================================================================================
+1. ANONYMOUS FUNCTION: 
+- Là 1 hàm theo style take-away, on-the-go, hàm được tạo ra ngay ở chỗ khai báo,
+gán giá trị cho biến delegate, hàm dc tạo ra ngay ở chỗ hợp đồng luật sư thân chủ
+- Hàm bình thường đc viết ra có 1 cái tên, và thân hàm, phân biệt nhau bằng
+	F(Tham số hàm)
+	{
+	    Thân hàm, code xử lí của hàm - Body of function...
+	}
+- Nếu hàm đc gán cho 1 biến delegate, tức là hàm f lúc này có thêm 1 nick name NoInputNoOutput f = F;
+1 hàm có 2 tên, ta ăn bớt 1 tên, ăn bớt tên gốc, bán linh hồn bán luôn tên mà ko sợ mất hàm vì vẫn còn
+tên biến delegate, loại bỏ tên hàm gốc dùng keyword delegate kế bên (tham số)
+	f = delegate () {thân hàm}
+- Hàm lúc này mất tên gốc, chỉ còn được gọi qua tên nick name luật sư, biến delegate f
+- Hàm mất tên, nhưng dc gọi, tham chiếu qua biến delegate, hàm k tên, hàm anonymous
+- Bản chất nó còn tên, được gọi qua delegate
+
+-Nhờ xài biến delegate, ta có thể tạo hàm bất kì on the go, take away ở bất kì chỗ nào trong 1 hàm bất kì.
+Phát hiện đặc biệt: có 1 hàm lồng trong 1 hàm khác
+
+2. Biểu thức LAMBDA - LAMBDA EXPRESSION
+(lambda là 1 loại toán học, toán học thì phải có biểu thức tính toán)
+- Lambda Expression (LE) chẳng qua chính là hàm anonymous được rút gọn code viết cho gọn gàn
+- Có câu: Lambda Expression luôn là hàm ẩn danh Anonymous
+	  Nhưng hàm ẩn danh thì là hàm ẩn danh, ko phải lambda expression
+
+	  Lambda Expression là phân số tối giản, nhưng phân số thì ko hẳn là tối giản
+
+Anonymous Method
+f = delegate ()
+    {
+	... thân hàm
+    };
+
+Lambda
+f = () =>
+    {
+	... thân hàm
+    };
+
+loại bỏ từ khóa delegate, phân cách phần tham số hàm với thân hàm dùng dấu =>, bạn đã có biểu thức lambda. Rút gọn từ anonymous
+
+**** Cấm tuyệt đối nhầm lẫn giữa Expression Bodied và Lambda Expression
+-Giống nhau: Đều xài => để phân cách tham số hàm và thân hàm () => {...}
+-Khác nhau: Expression Bodied chỉ áp dụng với 1 hàm có 1 lệnh duy nhất;
+	    Lambda Expression áp dụng cho hàm ẩn danh, ko quan tâm thân hàm có mấy lệnh
+
+-Manh mối phân biệt:
+	     Expression Bodied: Tên hàm full đầy đủ kiểu truyền thống
+	     public override string ToString() => $"...";
+	     Lambda Expression: Phải gắn với delegate, chả thấy tên hàm full ở đâu, vì bị gán tên rồi
+-Biểu thức lambda trong java dùng mũi tên đơn ->
+Nhưng nó phải gắn kèm với 1 interface, interface này chỉ có duy nhất 1 hàm - gọi là functional interface
+
+>>>>>Quy tắc rút gọn biểu thức lambda từ hàm ẩn danh, áp dụng cho java y chang, ngoại trừ thay dấu => bằng dấu ->
+
+0.Công thức chung của biểu thức lambda - là sự rút gọn từ hàm ẩn danh
+hàm ẩn danh: DelegateType biến = delegate (các tham số nếu có) {code của thân hàm};
+hàm lambda: DelegateType biến = (các tham số nếu có) {code của thân hàm};
+					tham số hàm	thân hàm
+1. Rút gọn tham số hàm
+- Nếu hàm ko cso tham số, dùng () =>
+- Nếu hàm có 1 tham số, có 3 cách
+				(int x) =>
+				(x)	=>
+				x	=>
+- Nếu hàm đó có từ 2 tham số trở lên, có 2 cách
+				(int x, int y) =>
+					(x, y) =>
+
+				(a, b, c)	=> Hàm gốc 3 tham số
+
+2. Rút gọn thân hàm, phần code nằm sau =>
+- => { Thân hàm }, phần rút gọn có phần giống expression bodied
+- Nếu thân hàm chỉ có duy nhất 1 lệnh, dẹp return (nếu có), dẹp luôn {}
+- Thân hàm có 2 lệnh trở lên, thì giữ nguyên { BODY }, ko rút dc
+
+=============================================================
+Delegate hàng chuẩn, hàng xịn!!!
+- Microsoft khi đưa ra khái niệm delegate, họ đã tính đến việc mỗi developer sẽ đặt tên 
+delegate theo cách của riêng họ, điều này khiến cho rất đa dạng tên delegate; nhưng lại ko 
+reuse lẫn lộn của nhau đc, do mỗi người có cái tôi riêng của họ
+- Microsoft bèn tạo sẵn một loạt delegate chuẩn, tên chuẩn, bao được hết các loại hàm đang có
+và bao được hết sự đa dạng trong các tham số đầu vào!!
+ Họ xài DELEGATE kết hợp GENERIC
+ Họ quy ước 1 hàm tối đa 16 tham số!!
+
+1. Hàm loại VOID, ko đầu vào, thì tên delegate là 
+
+ Mình tự đặt: public delegate void NoInputNoOutput();
+ Mình xài   : NoInputNoOutput f = () => {}; //lambda
+
+ MICROSOFT giới thiệu : public delegate void Action();	//ứng với hàm hành động, làm cái gì đi
+ Mình xài của MS      : Action f = () => {}; //lambda
+
+ ACtion có sẵn khai báo biến xài luôn, ko cần gõ lại public delegate
+
+2. Hàm loại void, nhưng có đầu vào, thì tên delegate là
+
+ Mình tự đặt: public delegate void OneInputNoOutput(int x);
+	      public delegate void TwoInputStrStrNoOutput(string x, string y);
+		//...còn 3, 4, 5 tham số, đa dạng data type
+ Mình xài   : OneInputNoOutput f = x => {...}; //lambda
+
+ MICROSOFT giới thiệu : public delegate void Action(<T1>, <T2>, <T3>, <T4>,...<T16>);
+ Mình xài của MS      : Action<string, string> f = (s1, s2) => {}; //lambda
+			Action<int> f = n => {}; //lambda
+
+3. Hàm loại có trả về, có thể ko có đầu vào, hoặc nhều đầu vào (Tối đa 16 dầu vào)
+ mình tự đặt : public delegate int NoInputOneOutput(); //ko vào có ra
+	       public delegate int OneInputOneOutput(string); //có vào có ra
+   	       public delegate int TwoInputsOneOutput(string s, string t); //2 vào 1 ra
+ 
+ Microsoft giới thiệu: public delegate Func<các đầu vào, tối đa 16, đầu ra>
+		       public delegate Func(<T-vào-1>, <T-vào-2>..., <T-ra>)
+		       public delegate Func(<T-ra>) ko vào có ra
+ 
+ ứng với 4 thứ của mình, sửa lại thành 
+			Func<int>	  //ko vào có ra int
+			Func<int, string> //nhận int trả string
+			Func<string, string, string> //nhận vào 2 string; trả 1 string
+			Func<string, string, double> //Nhần vào 2 string, trả 1 double
+
+4. Hàm thuộc loại có trả về nhưng trả về bool, và chỉ nhận 1 đầu vào
+   bool CheckX(?) ? đi vào trả ra đúng sai!!!
+ - Hàm này quan trọng vì hay dùng để xử lí info, với 1 điều kiện tính toán so sánh nào đó -
+criteria, ta trả về đúng sai dựa trên đầu vào, và dứa trên đúng sai, ta làm gì tiếp...
+	đầu vào -> điều kiện tính toán so sánh -> true false -> làm gì tiếp theo với đầu vào hoặc data khác
+
+	if (là số nguyên tố?)
+	Thì...
+	if(là khách hàng thân thiết?)
+	Thì... làm gì tiếp
+	if(có xung đột tkb?)
+	thì.. làm gì tiếp
+
+*HÀm bool là dúng để ra quyết đinh, đúng thì làm gì, sai làm gì
+ hàm này hay được dùng, nên microsoft giúp ta viết cú pháp hàm này ở lambda expression cho gọn thay vì dùng Func()
+ Thay vì dùng Func()
+ 
+ Mình tự đặt
+		public delegate bool CheckVar(int x);
+ Microsoft giới thiệu: 
+		public delegate bool Func(int x... các đầu vào);
+				     Func(đầu vào 1, đầu vào 2,... đầu vào 16, đầu ra)
+				     Generic
+		Func<int, int, int> hàm nhận 2 đầu vào int trả ra int
+		Func<string, int, string> hàm nhận 2 đầu vào string, int trả ra string
+		Func<int> hàm ko nhận đầu vào, trả ra int
+		Func<int, bool> hàm nhận đầu vào int, trả ra bool
+
+ Microsoft giới thiệu delegate đặc chế riêng cho hàm bool
+
+		Predicate<int> bản thân chữ predicate đã là đúng sai!!!
+	       ~Func<int, bool>
+
+ Predicate chỉ có 1 đầu vào, muốn dùng nhiều hơn 1 đầu vào thì phải dùng Func
+ Prediacte luôn trả về đúng/sai tùy theo biến đưa vào, và tùy code

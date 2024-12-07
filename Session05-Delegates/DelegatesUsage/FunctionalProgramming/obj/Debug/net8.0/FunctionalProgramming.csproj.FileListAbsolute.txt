@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\bin\Debug\net8.0\FunctionalProgramming.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\refint\FunctionalProgramming.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\FunctionalProgramming.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgramming\obj\Debug\net8.0\ref\FunctionalProgramming.dll

@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\bin\Debug\net8.0\ValueTypeTester.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\bin\Debug\net8.0\ValueTypeTester.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\bin\Debug\net8.0\ValueTypeTester.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\bin\Debug\net8.0\ValueTypeTester.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\bin\Debug\net8.0\ValueTypeTester.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\refint\ValueTypeTester.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ValueTypeTester.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ValueTypeTester\obj\Debug\net8.0\ref\ValueTypeTester.dll

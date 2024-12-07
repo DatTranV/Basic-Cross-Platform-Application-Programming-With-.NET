@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\bin\Debug\net8.0\ObjectType.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\bin\Debug\net8.0\ObjectType.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\bin\Debug\net8.0\ObjectType.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\bin\Debug\net8.0\ObjectType.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\bin\Debug\net8.0\ObjectType.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\refint\ObjectType.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ObjectType.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\DataType\ObjectType\obj\Debug\net8.0\ref\ObjectType.dll

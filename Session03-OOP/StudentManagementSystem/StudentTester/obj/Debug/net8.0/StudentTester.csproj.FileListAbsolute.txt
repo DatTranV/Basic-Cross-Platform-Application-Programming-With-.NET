@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\bin\Debug\net8.0\StudentTester.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\bin\Debug\net8.0\StudentTester.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\bin\Debug\net8.0\StudentTester.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\bin\Debug\net8.0\StudentTester.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\bin\Debug\net8.0\StudentTester.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\refint\StudentTester.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\StudentTester.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session03-OOP\StudentManagementSystem\StudentTester\obj\Debug\net8.0\ref\StudentTester.dll

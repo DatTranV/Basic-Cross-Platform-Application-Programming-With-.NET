@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30177AF3-C6FE-4FA7-B80A-AE45A491599D}|StudentTesterV5\\StudentTesterV5.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30177AF3-C6FE-4FA7-B80A-AE45A491599D}|StudentTesterV5\\StudentTesterV5.csproj|solutionrelative:studenttesterv5\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A961E5D6-5FC8-45F1-B85E-A808E1504584}|StudentTesterV4\\StudentTesterV4.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961E5D6-5FC8-45F1-B85E-A808E1504584}|StudentTesterV4\\StudentTesterV4.csproj|solutionrelative:studenttesterv4\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A961E5D6-5FC8-45F1-B85E-A808E1504584}|StudentTesterV4\\StudentTesterV4.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A961E5D6-5FC8-45F1-B85E-A808E1504584}|StudentTesterV4\\StudentTesterV4.csproj|solutionrelative:studenttesterv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30177AF3-C6FE-4FA7-B80A-AE45A491599D}|StudentTesterV5\\StudentTesterV5.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv5\\studenttesterv5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30177AF3-C6FE-4FA7-B80A-AE45A491599D}|StudentTesterV5\\StudentTesterV5.csproj|solutionrelative:studenttesterv5\\studenttesterv5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B3AC53-31B7-48B8-8A16-3DCA4EC20617}|StudentTesterV2\\StudentTesterV2.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B3AC53-31B7-48B8-8A16-3DCA4EC20617}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70B3AC53-31B7-48B8-8A16-3DCA4EC20617}|StudentTesterV2\\StudentTesterV2.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70B3AC53-31B7-48B8-8A16-3DCA4EC20617}|StudentTesterV2\\StudentTesterV2.csproj|solutionrelative:studenttesterv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE4CABB-F54C-474C-87BD-3F92323D1927}|StudentTesterV3\\StudentTesterV3.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE4CABB-F54C-474C-87BD-3F92323D1927}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD4465D-9EF5-44E7-8726-DB1A053FD0EE}|StudentTester\\StudentTester.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD4465D-9EF5-44E7-8726-DB1A053FD0EE}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA293A11-42D6-41A6-BD67-5ABF2AAFAD15}|StudentTesterV6\\StudentTesterV6.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA293A11-42D6-41A6-BD67-5ABF2AAFAD15}|StudentTesterV6\\StudentTesterV6.csproj|solutionrelative:studenttesterv6\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA293A11-42D6-41A6-BD67-5ABF2AAFAD15}|StudentTesterV6\\StudentTesterV6.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA293A11-42D6-41A6-BD67-5ABF2AAFAD15}|StudentTesterV6\\StudentTesterV6.csproj|solutionrelative:studenttesterv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30177AF3-C6FE-4FA7-B80A-AE45A491599D}|StudentTesterV5\\StudentTesterV5.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30177AF3-C6FE-4FA7-B80A-AE45A491599D}|StudentTesterV5\\StudentTesterV5.csproj|solutionrelative:studenttesterv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE4CABB-F54C-474C-87BD-3F92323D1927}|StudentTesterV3\\StudentTesterV3.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE4CABB-F54C-474C-87BD-3F92323D1927}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD4465D-9EF5-44E7-8726-DB1A053FD0EE}|StudentTester\\StudentTester.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBD4465D-9EF5-44E7-8726-DB1A053FD0EE}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD4465D-9EF5-44E7-8726-DB1A053FD0EE}|StudentTester\\StudentTester.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session03-oop\\studentmanagementsystem\\studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CBD4465D-9EF5-44E7-8726-DB1A053FD0EE}|StudentTester\\StudentTester.csproj|solutionrelative:studenttester\\studenttester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV6\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV6\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV6\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV6\\Entities\\Student.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswBEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:14:24.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV6\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV6\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV6\\Program.cs",
+              "RelativeToolTip": "StudentTesterV6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:13:50.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV4\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV4\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV4\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV4\\Entities\\Student.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:01:08.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV4\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV4\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV4\\Program.cs",
+              "RelativeToolTip": "StudentTesterV4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:00:42.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV3\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV3\\Entities\\Student.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAswE0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:34:15.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV3\\Program.cs",
+              "RelativeToolTip": "StudentTesterV3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:33:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV2\\Entities\\Student.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAkwEkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:29:12.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV2\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV2\\Program.cs",
+              "RelativeToolTip": "StudentTesterV2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T06:24:55.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTester\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTester\\Program.cs",
+              "RelativeToolTip": "StudentTester\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwBUAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:19:33.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentTesterV5.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV5\\StudentTesterV5.csproj",
+              "RelativeDocumentMoniker": "StudentTesterV5\\StudentTesterV5.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV5\\StudentTesterV5.csproj",
+              "RelativeToolTip": "StudentTesterV5\\StudentTesterV5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-01T13:15:19.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV5\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTesterV5\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV5\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTesterV5\\Entities\\Student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:12:09.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV5\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV5\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTesterV5\\Program.cs",
+              "RelativeToolTip": "StudentTesterV5\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:10:39.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTester\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentTester\\Entities\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTester\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentTester\\Entities\\Student.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAA5wEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:36:55.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentTester.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTester\\StudentTester.csproj",
+              "RelativeDocumentMoniker": "StudentTester\\StudentTester.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session03-OOP\\StudentManagementSystem\\StudentTester\\StudentTester.csproj",
+              "RelativeToolTip": "StudentTester\\StudentTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T09:35:28.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

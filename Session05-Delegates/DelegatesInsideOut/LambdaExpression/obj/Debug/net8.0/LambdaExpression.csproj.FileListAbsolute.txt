@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\bin\Debug\net8.0\LambdaExpression.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\bin\Debug\net8.0\LambdaExpression.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\bin\Debug\net8.0\LambdaExpression.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\bin\Debug\net8.0\LambdaExpression.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\bin\Debug\net8.0\LambdaExpression.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\refint\LambdaExpression.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\LambdaExpression.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\LambdaExpression\obj\Debug\net8.0\ref\LambdaExpression.dll

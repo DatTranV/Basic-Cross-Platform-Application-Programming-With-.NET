@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32425B31-405F-46BF-AE42-53F2EFA50241}|DelegatesFinal\\DelegatesFinal.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\delegatesfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32425B31-405F-46BF-AE42-53F2EFA50241}|DelegatesFinal\\DelegatesFinal.csproj|solutionrelative:delegatesfinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C9C44-AE04-4228-8454-3ECB7939955F}|FunctionalProgrammingV7Student\\FunctionalProgrammingV7Student.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv7student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51C9C44-AE04-4228-8454-3ECB7939955F}|FunctionalProgrammingV7Student\\FunctionalProgrammingV7Student.csproj|solutionrelative:functionalprogrammingv7student\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B1E2E38-8C76-4680-A580-D3A9F9BA73EA}|FunctionalProgrammingV6\\FunctionalProgrammingV6.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B1E2E38-8C76-4680-A580-D3A9F9BA73EA}|FunctionalProgrammingV6\\FunctionalProgrammingV6.csproj|solutionrelative:functionalprogrammingv6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02646BF6-A5C2-42B3-8CA8-B3025C7EF006}|FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02646BF6-A5C2-42B3-8CA8-B3025C7EF006}|FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj|solutionrelative:functionalprogrammingv5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0A9B46-3BF7-40A8-8AA3-F1433C1C9DEE}|FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B0A9B46-3BF7-40A8-8AA3-F1433C1C9DEE}|FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj|solutionrelative:functionalprogrammingv4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02646BF6-A5C2-42B3-8CA8-B3025C7EF006}|FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv5\\functionalprogrammingv5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{02646BF6-A5C2-42B3-8CA8-B3025C7EF006}|FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj|solutionrelative:functionalprogrammingv5\\functionalprogrammingv5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B0A9B46-3BF7-40A8-8AA3-F1433C1C9DEE}|FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv4\\functionalprogrammingv4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B0A9B46-3BF7-40A8-8AA3-F1433C1C9DEE}|FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj|solutionrelative:functionalprogrammingv4\\functionalprogrammingv4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA98E640-C868-416E-B113-50957FC63625}|FunctionalProgrammingV3\\FunctionalProgrammingV3.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA98E640-C868-416E-B113-50957FC63625}|FunctionalProgrammingV3\\FunctionalProgrammingV3.csproj|solutionrelative:functionalprogrammingv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594BFFD4-AE21-4D9E-BCD0-C90C6D80C450}|FunctionalProgrammingV2\\FunctionalProgrammingV2.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogrammingv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594BFFD4-AE21-4D9E-BCD0-C90C6D80C450}|FunctionalProgrammingV2\\FunctionalProgrammingV2.csproj|solutionrelative:functionalprogrammingv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C851F8FA-57D3-4930-A40F-E1606D645068}|FunctionalProgramming\\FunctionalProgramming.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session05-delegates\\delegatesusage\\functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C851F8FA-57D3-4930-A40F-E1606D645068}|FunctionalProgramming\\FunctionalProgramming.csproj|solutionrelative:functionalprogramming\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 211,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\DelegatesFinal\\Program.cs",
+              "RelativeDocumentMoniker": "DelegatesFinal\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\DelegatesFinal\\Program.cs",
+              "RelativeToolTip": "DelegatesFinal\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAwwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T07:18:39.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV7Student\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV7Student\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV7Student\\Program.cs",
+              "RelativeToolTip": "FunctionalProgrammingV7Student\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:48:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV6\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV6\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV6\\Program.cs",
+              "RelativeToolTip": "FunctionalProgrammingV6\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T05:36:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FunctionalProgrammingV5.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj",
+              "RelativeToolTip": "FunctionalProgrammingV5\\FunctionalProgrammingV5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T04:46:40.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FunctionalProgrammingV4.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj",
+              "RelativeToolTip": "FunctionalProgrammingV4\\FunctionalProgrammingV4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-06T04:46:39.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV5\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV5\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV5\\Program.cs",
+              "RelativeToolTip": "FunctionalProgrammingV5\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwDEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T04:34:35.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV4\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV4\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV4\\Program.cs",
+              "RelativeToolTip": "FunctionalProgrammingV4\\Program.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwCYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T09:11:31.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV3\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV3\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV3\\Program.cs",
+              "RelativeToolTip": "FunctionalProgrammingV3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:54:43.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV2\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgrammingV2\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgrammingV2\\Program.cs",
+              "RelativeToolTip": "FunctionalProgrammingV2\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T08:40:07.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgramming\\Program.cs",
+              "RelativeDocumentMoniker": "FunctionalProgramming\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session05-Delegates\\DelegatesUsage\\FunctionalProgramming\\Program.cs",
+              "RelativeToolTip": "FunctionalProgramming\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwH0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T07:11:10.054Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

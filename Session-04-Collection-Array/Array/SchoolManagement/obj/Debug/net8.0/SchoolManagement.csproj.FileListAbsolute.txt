@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\bin\Debug\net8.0\SchoolManagement.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\bin\Debug\net8.0\SchoolManagement.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\bin\Debug\net8.0\SchoolManagement.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\bin\Debug\net8.0\SchoolManagement.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\bin\Debug\net8.0\SchoolManagement.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\refint\SchoolManagement.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\SchoolManagement.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\Array\SchoolManagement\obj\Debug\net8.0\ref\SchoolManagement.dll

@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\bin\Debug\net8.0\BasicList.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\bin\Debug\net8.0\BasicList.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\bin\Debug\net8.0\BasicList.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\bin\Debug\net8.0\BasicList.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\bin\Debug\net8.0\BasicList.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\refint\BasicList.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\BasicList.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session-04-Collection-Array\List\BasicList\obj\Debug\net8.0\ref\BasicList.dll

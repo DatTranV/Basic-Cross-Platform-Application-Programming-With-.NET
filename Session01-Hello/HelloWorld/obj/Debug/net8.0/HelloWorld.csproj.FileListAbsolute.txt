@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session01-Hello\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll

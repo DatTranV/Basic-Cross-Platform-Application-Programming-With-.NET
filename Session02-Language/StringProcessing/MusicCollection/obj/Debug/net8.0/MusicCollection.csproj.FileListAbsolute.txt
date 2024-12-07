@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\bin\Debug\net8.0\MusicCollection.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\bin\Debug\net8.0\MusicCollection.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\bin\Debug\net8.0\MusicCollection.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\bin\Debug\net8.0\MusicCollection.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\bin\Debug\net8.0\MusicCollection.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\refint\MusicCollection.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\MusicCollection.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\StringProcessing\MusicCollection\obj\Debug\net8.0\ref\MusicCollection.dll

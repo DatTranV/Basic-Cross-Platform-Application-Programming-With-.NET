@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\bin\Debug\net8.0\FunctionalProgrammingV7Student.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\bin\Debug\net8.0\FunctionalProgrammingV7Student.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\bin\Debug\net8.0\FunctionalProgrammingV7Student.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\bin\Debug\net8.0\FunctionalProgrammingV7Student.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\bin\Debug\net8.0\FunctionalProgrammingV7Student.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\refint\FunctionalProgrammingV7Student.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\FunctionalProgrammingV7Student.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\FunctionalProgrammingV7Student\obj\Debug\net8.0\ref\FunctionalProgrammingV7Student.dll

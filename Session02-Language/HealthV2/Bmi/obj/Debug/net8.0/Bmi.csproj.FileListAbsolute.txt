@@ -1,0 +1,13 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\bin\Debug\net8.0\Bmi.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\bin\Debug\net8.0\Bmi.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\bin\Debug\net8.0\Bmi.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\bin\Debug\net8.0\Bmi.xml
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.xml
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\Bmi.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session02-Language\HealthV2\Bmi\obj\Debug\net8.0\ref\Bmi.dll

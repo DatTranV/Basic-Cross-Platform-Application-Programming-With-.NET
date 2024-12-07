@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\bin\Debug\net8.0\TwoInputsNoOutputDelegates.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\bin\Debug\net8.0\TwoInputsNoOutputDelegates.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\bin\Debug\net8.0\TwoInputsNoOutputDelegates.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\bin\Debug\net8.0\TwoInputsNoOutputDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\bin\Debug\net8.0\TwoInputsNoOutputDelegates.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\refint\TwoInputsNoOutputDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\TwoInputsNoOutputDelegates.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\TwoInputsNoOutputDelegates\obj\Debug\net8.0\ref\TwoInputsNoOutputDelegates.dll

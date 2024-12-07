@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB5ADDEE-5722-4ABB-9036-0DDE9340B86B}|Nullable\\Nullable.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\datatype\\nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB5ADDEE-5722-4ABB-9036-0DDE9340B86B}|Nullable\\Nullable.csproj|solutionrelative:nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E74FD58-7AA4-4489-A4E7-DDC7E82DA37F}|ValueTypeTester\\ValueTypeTester.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\datatype\\valuetypetester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E74FD58-7AA4-4489-A4E7-DDC7E82DA37F}|ValueTypeTester\\ValueTypeTester.csproj|solutionrelative:valuetypetester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022D4439-4DDB-447B-B540-61DCF7A264A4}|ObjectTypeV2\\ObjectTypeV2.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\datatype\\objecttypev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022D4439-4DDB-447B-B540-61DCF7A264A4}|ObjectTypeV2\\ObjectTypeV2.csproj|solutionrelative:objecttypev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBE3DAF-8C48-4C00-B76C-088B9C083C74}|ObjectType\\ObjectType.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\datatype\\objecttype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBE3DAF-8C48-4C00-B76C-088B9C083C74}|ObjectType\\ObjectType.csproj|solutionrelative:objecttype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBBE3DAF-8C48-4C00-B76C-088B9C083C74}|ObjectType\\ObjectType.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\datatype\\objecttype\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBBE3DAF-8C48-4C00-B76C-088B9C083C74}|ObjectType\\ObjectType.csproj|solutionrelative:objecttype\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{022D4439-4DDB-447B-B540-61DCF7A264A4}|ObjectTypeV2\\ObjectTypeV2.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\datatype\\objecttypev2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{022D4439-4DDB-447B-B540-61DCF7A264A4}|ObjectTypeV2\\ObjectTypeV2.csproj|solutionrelative:objecttypev2\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\Nullable\\Program.cs",
+              "RelativeDocumentMoniker": "Nullable\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\Nullable\\Program.cs",
+              "RelativeToolTip": "Nullable\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwBoAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:54:34.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectTypeV2\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectTypeV2\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectTypeV2\\Program.cs",
+              "RelativeToolTip": "ObjectTypeV2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:45:44.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectType\\Student.cs",
+              "RelativeDocumentMoniker": "ObjectType\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectType\\Student.cs",
+              "RelativeToolTip": "ObjectType\\Student.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ValueTypeTester\\Program.cs",
+              "RelativeDocumentMoniker": "ValueTypeTester\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ValueTypeTester\\Program.cs",
+              "RelativeToolTip": "ValueTypeTester\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T13:57:53.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectTypeV2\\Student.cs",
+              "RelativeDocumentMoniker": "ObjectTypeV2\\Student.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectTypeV2\\Student.cs",
+              "RelativeToolTip": "ObjectTypeV2\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T01:46:39.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectType\\Program.cs",
+              "RelativeDocumentMoniker": "ObjectType\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\DataType\\ObjectType\\Program.cs",
+              "RelativeToolTip": "ObjectType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:48:21.05Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

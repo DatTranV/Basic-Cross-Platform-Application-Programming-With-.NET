@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\bin\Debug\net8.0\OneInputNoOutputDelegates.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\bin\Debug\net8.0\OneInputNoOutputDelegates.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\bin\Debug\net8.0\OneInputNoOutputDelegates.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\bin\Debug\net8.0\OneInputNoOutputDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\bin\Debug\net8.0\OneInputNoOutputDelegates.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\refint\OneInputNoOutputDelegates.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\OneInputNoOutputDelegates.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\OneInputNoOutputDelegates\obj\Debug\net8.0\ref\OneInputNoOutputDelegates.dll

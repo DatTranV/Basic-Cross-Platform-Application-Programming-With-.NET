@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\bin\Debug\net8.0\AnonymousFunction.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\refint\AnonymousFunction.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\AnonymousFunction.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\AnonymousFunction\obj\Debug\net8.0\ref\AnonymousFunction.dll

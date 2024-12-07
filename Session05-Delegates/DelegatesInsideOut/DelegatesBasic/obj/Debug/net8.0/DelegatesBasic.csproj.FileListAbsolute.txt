@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\bin\Debug\net8.0\DelegatesBasic.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\bin\Debug\net8.0\DelegatesBasic.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\bin\Debug\net8.0\DelegatesBasic.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\bin\Debug\net8.0\DelegatesBasic.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\bin\Debug\net8.0\DelegatesBasic.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\refint\DelegatesBasic.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\DelegatesBasic.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\DelegatesBasic\obj\Debug\net8.0\ref\DelegatesBasic.dll

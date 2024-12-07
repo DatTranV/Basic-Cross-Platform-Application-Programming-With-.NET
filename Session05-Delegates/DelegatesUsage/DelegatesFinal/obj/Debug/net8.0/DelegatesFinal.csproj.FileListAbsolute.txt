@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\bin\Debug\net8.0\DelegatesFinal.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\bin\Debug\net8.0\DelegatesFinal.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\bin\Debug\net8.0\DelegatesFinal.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\bin\Debug\net8.0\DelegatesFinal.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\bin\Debug\net8.0\DelegatesFinal.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\refint\DelegatesFinal.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\DelegatesFinal.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesUsage\DelegatesFinal\obj\Debug\net8.0\ref\DelegatesFinal.dll

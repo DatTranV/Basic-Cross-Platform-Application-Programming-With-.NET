@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66C77D4F-3BC0-40BC-BD43-0C5F34B6CED7}|Bmi\\Bmi.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\healthv2\\bmi\\bmi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{66C77D4F-3BC0-40BC-BD43-0C5F34B6CED7}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C77D4F-3BC0-40BC-BD43-0C5F34B6CED7}|Bmi\\Bmi.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\healthv2\\bmi\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66C77D4F-3BC0-40BC-BD43-0C5F34B6CED7}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmicalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C893C647-7403-46DE-8693-920D78C545D9}|BmiTester\\BmiTester.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\healthv2\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C893C647-7403-46DE-8693-920D78C545D9}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66C77D4F-3BC0-40BC-BD43-0C5F34B6CED7}|Bmi\\Bmi.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\healthv2\\bmi\\bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{66C77D4F-3BC0-40BC-BD43-0C5F34B6CED7}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C893C647-7403-46DE-8693-920D78C545D9}|BmiTester\\BmiTester.csproj|d:\\tai lieu cac ky\\tai lieu ky 5\\b3w\\session02-language\\healthv2\\bmitester\\bmitester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C893C647-7403-46DE-8693-920D78C545D9}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\bmitester.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BmiTester.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\BmiTester\\BmiTester.csproj",
+              "RelativeDocumentMoniker": "BmiTester\\BmiTester.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\BmiTester\\BmiTester.csproj",
+              "RelativeToolTip": "BmiTester\\BmiTester.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T08:22:30.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bmi",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\Bmi\\Bmi.csproj",
+              "RelativeDocumentMoniker": "Bmi\\Bmi.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\Bmi\\Bmi.csproj",
+              "RelativeToolTip": "Bmi\\Bmi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T08:39:59.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BmiCalculator.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\Bmi\\BmiCalculator.cs",
+              "RelativeDocumentMoniker": "Bmi\\BmiCalculator.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\Bmi\\BmiCalculator.cs",
+              "RelativeToolTip": "Bmi\\BmiCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:25:14.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bmi.csproj",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\Bmi\\Bmi.csproj",
+              "RelativeDocumentMoniker": "Bmi\\Bmi.csproj",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\Bmi\\Bmi.csproj",
+              "RelativeToolTip": "Bmi\\Bmi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-27T08:22:32.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\BmiTester\\Program.cs",
+              "RelativeDocumentMoniker": "BmiTester\\Program.cs",
+              "ToolTip": "D:\\tai lieu cac ky\\tai lieu ky 5\\B3W\\Session02-Language\\HealthV2\\BmiTester\\Program.cs",
+              "RelativeToolTip": "BmiTester\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T08:20:22.347Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

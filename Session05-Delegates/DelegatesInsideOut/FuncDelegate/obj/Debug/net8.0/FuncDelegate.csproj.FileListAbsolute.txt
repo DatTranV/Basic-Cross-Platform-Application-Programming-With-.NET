@@ -1,0 +1,14 @@
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\bin\Debug\net8.0\FuncDelegate.exe
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\bin\Debug\net8.0\FuncDelegate.deps.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\bin\Debug\net8.0\FuncDelegate.runtimeconfig.json
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\bin\Debug\net8.0\FuncDelegate.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\bin\Debug\net8.0\FuncDelegate.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfoInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.AssemblyInfo.cs
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\refint\FuncDelegate.dll
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.pdb
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\FuncDelegate.genruntimeconfig.cache
+D:\tai lieu cac ky\tai lieu ky 5\B3W\Session05-Delegates\DelegatesInsideOut\FuncDelegate\obj\Debug\net8.0\ref\FuncDelegate.dll
